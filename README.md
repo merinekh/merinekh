@@ -4,7 +4,7 @@
 
 [Email](mailto:merinekh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khalil-merine) | [Portfolio](https://www.khalilmerine.com)
 
-## 🔭 Currently Working On
+## 🔭 Currently Working As
 Full-Stack Developer at Softvoyage, specializing in React, Next.js, Python, and FastAPI.
 
 ## 🌱 Currently Learning
@@ -35,7 +35,7 @@ In addition to frontend development, I actively contribute to the backend, where
 He/Him
 
 ## ⚡ Fun Fact
-I'm passionate about exploring new technologies and constantly challenging myself.
+I originally graduated as a Chemical Engineer but fell in love with coding during my first year in the "Programming for Engineers" course. Since then, I've been on a continuous learning journey. After two years of self-directed learning, I decided to formalize my career change by completing a coding bootcamp. I'm truly passionate about the intersection of technology and problem-solving, and I'm always eager to explore new possibilities in the world of software development.
 
 ## 🌍 Seeking Job Opportunities in the US
 I'm actively looking for job opportunities in the United States.
