@@ -47,9 +47,6 @@ In addition to frontend development, I actively contribute to the backend, where
 - Email: [merinekh@gmail.com](mailto:merinekh@gmail.com)
 - LinkedIn: [Khalil Merine](https://www.linkedin.com/in/khalil-merine)
 
-## 😄 Pronouns
-He/Him
-
 ## ⚡ Fun Fact
 I originally graduated as a Chemical Engineer but fell in love with coding during my first year in the "Programming for Engineers" course. Since then, I've been on a continuous learning journey. After two years of self-directed learning, I decided to formalize my career change by completing a coding bootcamp. I'm truly passionate about the intersection of technology and problem-solving, and I'm always eager to explore new possibilities in the world of software development.
 
