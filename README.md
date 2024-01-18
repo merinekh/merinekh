@@ -4,6 +4,22 @@
 
 [Email](mailto:merinekh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khalil-merine) | [Portfolio](https://www.khalilmerine.com)
 
+## Profile
+Experienced Full-Stack Developer with a focus on creating dynamic and scalable applications, implementing robust security features, and designing user authentication systems. Proven proficiency in Agile development, thriving in fast-paced environments. Passionate about software engineering and eager to contribute expertise to any development team.
+
+## Skills
+- **Languages:** JavaScript, Python
+- **Front-End:** React, Next.js, Bootstrap, Tailwind CSS
+- **Back-End:** Node.js, Express, RESTful API, FastAPI
+- **Databases:** MySQL, MongoDB
+- **Tools:** GitLab, Jira, Discord, Slack
+- **Other:** Docker, Jest, Agile Development, Document Object Model, OAuth, Heroku
+  
+## Languages
+- Français (Native or Bilingual)
+- Espagnol (Professional Working)
+- Anglais (Full Professional)
+  
 ## 🔭 Currently Working As
 Full-Stack Developer at Softvoyage, specializing in React, Next.js, Python, and FastAPI.
 
@@ -40,28 +56,6 @@ I originally graduated as a Chemical Engineer but fell in love with coding durin
 ## 🌍 Seeking Job Opportunities in the US
 I'm actively looking for job opportunities in the United States.
 
-## Skills
-- Gitlab
-- Docker
-- Linux
-- Bootstrap
-- Redux.js
-- Next.js
-- styled-components
-- Agile Web Development
-- FastAPI
-- MongoDB
-- Docker Products
-- Open Database Connectivity (ODBC)
-- SASS
-- Document Object Model (DOM)
-- React.js
-- Python (Programming Language)
-
-## Languages
-- Français (Native or Bilingual)
-- Espagnol (Professional Working)
-- Anglais (Full Professional)
 
 Explore my [portfolio](https://www.khalilmerine.com) for more details.
 
