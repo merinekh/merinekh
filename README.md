@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Imgur](https://i.imgur.com/b88yo2H.png)
+![Imgur](https://i.imgur.com/b88yo2H.png)
 
 [Email](mailto:merinekh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khalil-merine) | [Portfolio](https://www.khalilmerine.com)
 
