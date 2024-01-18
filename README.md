@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Profile Image](https://imgur.com/b88yo2H)
+[Imgur](https://i.imgur.com/b88yo2H.png)
+
 [Email](mailto:merinekh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khalil-merine) | [Portfolio](https://www.khalilmerine.com)
 
 ## 🔭 Currently Working On
