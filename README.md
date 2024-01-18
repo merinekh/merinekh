@@ -4,10 +4,10 @@
 
 [Email](mailto:merinekh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khalil-merine) | [Portfolio](https://www.khalilmerine.com)
 
-## Profile
+## 📋 Profile
 Experienced Full-Stack Developer with a focus on creating dynamic and scalable applications, implementing robust security features, and designing user authentication systems. Proven proficiency in Agile development, thriving in fast-paced environments. Passionate about software engineering and eager to contribute expertise to any development team.
 
-## Skills
+## 🚀 Skills
 - **Languages:** JavaScript, Python
 - **Front-End:** React, Next.js, Bootstrap, Tailwind CSS
 - **Back-End:** Node.js, Express, RESTful API, FastAPI
@@ -15,8 +15,8 @@ Experienced Full-Stack Developer with a focus on creating dynamic and scalable a
 - **Tools:** GitLab, Jira, Discord, Slack
 - **Other:** Docker, Jest, Agile Development, Document Object Model, OAuth, Heroku
   
-## Languages
-- Français (Native or Bilingual)
+## 🌐 Languages
+- French (Native or Bilingual)
 - Espagnol (Professional Working)
 - Anglais (Full Professional)
   
@@ -29,7 +29,7 @@ Expanding skills in JAVA, C#, Docker and Linux.
 ## 👯 Looking to Collaborate On
 Exciting projects that push the boundaries of technology.
 
-## 💬 Frontend Contributions
+## 💻 Frontend Contributions
 As a Full-Stack Developer at Softvoyage for almost a year, I significantly contributed to front-end development by:
 - Crafting personalized components and prioritizing tailored solutions over storage-heavy libraries.
 - Spearheading the creation of server interfaces using FastAPI, seamlessly connecting new endpoints to the front end.
@@ -37,7 +37,7 @@ As a Full-Stack Developer at Softvoyage for almost a year, I significantly contr
 - Diligently resolving bugs, maintaining a clean and polished codebase.
 - Collaborating efficiently through GitLab, ensuring version control and streamlined workflows.
 
-## 🌐 Backend Contributions
+## 🖥️ Backend Contributions
 In addition to frontend development, I actively contribute to the backend, where I:
 - Create models for tables imported from ODBC systems.
 - Develop robust projects with a focus on optimal performance.
